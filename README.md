@@ -1,1 +1,1 @@
-#Composition of the various elements of my WebScraping Efforts
+#Composition of the various elements of my web scraping efforts
